@@ -1,0 +1,10 @@
+*.o
+
+test_issac
+test_readsac
+test_readsachead
+test_readsacpdw
+test_sacheadoffset
+test_writesac
+
+seis.out
